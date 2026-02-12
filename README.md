@@ -6,8 +6,8 @@
 </div>
 
 ## 🏢 Co-Founder  
-### 🧙‍♂️ Merlin Labs  
-🌐 https://www.merlinlabs.co.uk  
+### 🧙‍♂️ Armature Labs  
+🌐 https://www.armaturelabs.ai  
 > _"Building infrastructure that connects ideas and reality."_
 
 - 🔬 Current research on real-time surprise-modulated adaptive systems
